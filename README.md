@@ -3,7 +3,7 @@
 ### My name is Quang Phung
 🌸 I'm a sophomore at Dickinson College majoring in Computer Science and Mathematics
 
-🍋 I have experience in Data Enginner, Software Engineering, and Full-stack Engineer
+🍋 I have experience in Data Enginnering, Software Engineering, and Full-stack Engineering
 
 🐸 I'm currently looking for a Summer 2024 Software Engineering/Data Engineering/Full-stack Engineer internship
 
